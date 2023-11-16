@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Registration form](https://iamsouravhassan.github.io/form/)
 
-- 🌱 I’m currently learning **Html , Css , Javascript , Git and Github**
+- 🌱 I’m currently learning **Git and Github**
 
 - 👨‍💻 All of my projects are available at [https://iamsouravhassan@gmail.com](https://iamsouravhassan@gmail.com)
 
